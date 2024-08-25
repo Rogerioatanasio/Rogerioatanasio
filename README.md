@@ -1,4 +1,4 @@
-### Olá! Eu sou Rogerio Atanasio
+### Olá! Eu sou Rogerio Atanasio 
 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rogeriosilva802)
@@ -17,7 +17,7 @@
   <img align="center" alt="html"src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
   </div><br/>
 
-   Amor pelo conhecimento e a tecnologia.
+   Amor pelo conhecimento e a tecnologia.🚀
 
   * Contatos<br/>
 - [gmail](rogerio.atanasiojunior@gmail.com)<br/>
