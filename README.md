@@ -17,7 +17,7 @@
   <img align="center" alt="html"src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
   </div><br/>
 
-   Entusiasta de tecnologia e dados. Explorando, analisando e aprendendo na prática, um projeto de cada vez..🚀
+   Entusiasta de tecnologia e dados. Explorando, analisando e aprendendo na prática, um projeto de cada vez...🚀
 
   * Contatos<br/>
 - [gmail](rogerio.atanasiojunior@gmail.com)<br/>
